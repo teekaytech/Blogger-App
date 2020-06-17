@@ -3,7 +3,7 @@
 <ul id="tags">
   <% @tags.each do |tag| %>
     <li>
-      <%= tag.name %>
+      <%= link_to tag.name, tag_path(tag) %>
     </li>
   <% end %>
 </ul>

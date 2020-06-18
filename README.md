@@ -48,7 +48,7 @@ After cloning on your computer, open the folder using your terminal/command prom
 👤 **Ebeagu Samuel**
 
 - Github: [@ebeagusamuel](https://github.com/ebeagusamuel)
-- Twitter: [@samuelebeagu]()
+- Twitter: [@samuelebeagu](twitter.com/ebeagu_samuel)
 - Linkedin: [linkedin]()
 
 ## 🤝 Contributing
